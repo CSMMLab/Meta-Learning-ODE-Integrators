@@ -1,2 +1,4 @@
 intlib/__pycache__/*
 examples/linear_weights.h5
+examples/.ipynb_checkpoints/*
+julia/.ipynb_checkpoints/*
